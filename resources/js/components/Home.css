@@ -1,0 +1,12 @@
+body{
+    background-color: #3498db;
+}
+
+h1{
+    text-align: center;
+    background-color: #ffffff91;
+    margin: 10px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
